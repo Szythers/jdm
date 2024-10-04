@@ -154,7 +154,7 @@
         "url": "https://www.3daimtrainer.com/faq",
         "difficulty": "hard",
         "notes": "Email your username and e-mail used to create the account.",
-        "email": "shoot@3daimtrainer.com",
+        "email": "shoot@3daimtrainer.com","name": "
         "domains": [
             "3daimtrainer.com"
         ]
@@ -1082,6 +1082,16 @@
         "notes": "Login to your account, then open the URL. You should see the option 'Delete my account'. Enter your username for confirmation and use the deletion link sent to your email to delete your account.",
         "domains": [
             "alldebrid.com"
+        ]
+    },
+
+    {
+        "name": "AllTrails",
+        "url": "https://www.alltrails.com/my/profile/delete",
+        "difficulty": "easy",
+        "notes": "Login to your account, then open the URL.",
+        "domains": [
+            "alltrails.com"
         ]
     },
 
